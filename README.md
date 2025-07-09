@@ -4,7 +4,7 @@ A comprehensive TCL/TK script for performing ICMP connectivity tests on Cisco ro
 
 ## History
 
-There are two ways to accomplish things. The easy way, and the complicated way. In February 2020, I was installing 70+ Wireless Cisco routers in the Caribbean and permanently needed to run an ICMP test between the new unit and the servers. 
+There are two ways to accomplish things. The easy way, and the complicated way. In February 2020, I was installing 70+ Wireless 4G/GSM Cisco routers in the Caribbean and permanently needed to run an ICMP test between the new unit and the servers. 
 
 There is a well-known TCL script in the Cisco community that can make the job fast, reliable, and easy, and it is:
 ```bash
